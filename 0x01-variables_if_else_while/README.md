@@ -7,3 +7,5 @@
    - Prints the string "Last digit of n "is" last digit "and is" followed by "greater than 5" if the digit is greter then 5, "0" if the digit is 0, o     r "less then 6 and not 0" if the digit is less then 6 and not 0.
 
 2- A C program that prints the alphabet in lowercase, followed by a new line, using only the putchar function twice.
+
+3- A C program that prints the alphabet in lowercase, and then in uppercase, followed by a new line, using only the putchar function twice.
