@@ -19,3 +19,7 @@
 7- A C program that prints the lowercase alphabet in reverse, followed by a new line, using only the putchar function twice.
 
 8- A C program that prints all the numbers of base 16 in lowercase, followed by a new line, using only the putchar function twice.
+
+9- A C program that prints all possible combinations of single-digit numbers, using only the putchar function four times maximum, without any variables of type char:
+   - Numbers are separated by , , followed by a space.
+   - Numbers are printed in ascending order.
