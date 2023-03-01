@@ -20,3 +20,6 @@
    - Where n is the number of elements of the array to be printed.
    - Numbers must be separated by comma, followed by a space.
    - The numbers should be displayed in the same order as they are stored in the array.
+
+9- A C function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.
+   - Return value: the pointer to dest.
