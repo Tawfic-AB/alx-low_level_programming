@@ -5,3 +5,5 @@
 2- A C function that returns the length of a string.
 
 3- A C function that prints a string, followed by a new line, to stdout.
+
+4- A C function that prints a string, in reverse, followed by a new line.
