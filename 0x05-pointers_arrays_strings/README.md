@@ -7,3 +7,5 @@
 3- A C function that prints a string, followed by a new line, to stdout.
 
 4- A C function that prints a string, in reverse, followed by a new line.
+
+5- A C function that reverses a string.
