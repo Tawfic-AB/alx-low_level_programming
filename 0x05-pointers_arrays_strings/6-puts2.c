@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 
 /**
  * puts2 - Should print only one character out of two.
