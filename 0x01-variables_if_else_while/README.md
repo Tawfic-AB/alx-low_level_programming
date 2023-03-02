@@ -31,3 +31,11 @@
    - Print only the smallest combination of two digits.
    - Numbers are printed in ascending order, with two digits.
    - Code is in the main function.
+
+11- A C program the prints all possible different combinations of three digits, using only the putchar function six times maximum, without any variable type of char.
+   - Numbers are separated by ,, followed by a space.
+   - The three digits are different.
+   - 012, 120, 102, 021, 201, 210 are considered the same combination of the three digits 0, 1 and 2.
+   - Prints only the smallest combination of three digits.
+   - Numbers are printed in ascending order, with three digits.
+   - Code is in the main function.
