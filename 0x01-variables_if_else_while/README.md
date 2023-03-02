@@ -23,3 +23,11 @@
 9- A C program that prints all possible combinations of single-digit numbers, using only the putchar function four times maximum, without any variables of type char:
    - Numbers are separated by , , followed by a space.
    - Numbers are printed in ascending order.
+
+10- A C program that prints all possible different combinations of two digits, using only the putchar function five times maximum, witjout any variable of type char.
+   - Numbers are separated by ,, followed by a space.
+   - The two digits are different.
+   - 01 and 10 are considered the same combination of the two digits 0 and 1.
+   - Print only the smallest combination of two digits.
+   - Numbers are printed in ascending order, with two digits.
+   - Code is in the main function.
