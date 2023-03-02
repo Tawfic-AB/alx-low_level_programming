@@ -23,3 +23,8 @@
 
 9- A C function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.
    - Return value: the pointer to dest.
+
+10- A C function that converts a string to an integer.
+   - The number in the string is preceded by an infinite number of characters.
+   - - and + signs before the number are taken into account.
+   - The function returns 0, if there are no numbers in the string.
