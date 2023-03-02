@@ -28,3 +28,5 @@
    - The number in the string is preceded by an infinite number of characters.
    - - and + signs before the number are taken into account.
    - The function returns 0, if there are no numbers in the string.
+
+11- A C program that generates random valid password for the program 101-crackme.
