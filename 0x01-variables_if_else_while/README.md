@@ -30,7 +30,7 @@
    - 01 and 10 are considered the same combination of the two digits 0 and 1.
    - Print only the smallest combination of two digits.
    - Numbers are printed in ascending order, with two digits.
-   - Code is in the main function.
+   - All codes is in the main function.
 
 11- A C program the prints all possible different combinations of three digits, using only the putchar function six times maximum, without any variable type of char.
    - Numbers are separated by ,, followed by a space.
@@ -38,4 +38,13 @@
    - 012, 120, 102, 021, 201, 210 are considered the same combination of the three digits 0, 1 and 2.
    - Prints only the smallest combination of three digits.
    - Numbers are printed in ascending order, with three digits.
-   - Code is in the main function.
+   - All codes is in the main function.
+
+12- A C program that prints all possible combinations of two two-digit numbers, using only the putchar function eight times maximum, without any variable type of char.
+   - Numbers range from 0 99.
+   - The two numbers are separated by a space.
+   - All numbers are printed with two digits. 1 is printed as 01.
+   - The combination of numbers are separated by comma, followed by a space.
+   - The combinations of numbers are printed in ascending order.
+   - 00 01 and 01 00 are considered as the same combination of the numbers 0 and 1.
+   - All codes are in the main function.
