@@ -26,3 +26,9 @@
 9. A C function that prints the 9 times table, starting with 0.
 
 10. A C function that adds two integers and returns the result.
+
+11. A C function that prints all natural numbers from n to 98, followed by a new line.
+   - Numbers are separated by a comma, followed by a space.
+   - Numbers are printed in order.
+   - The first printed number is the number passed to the function.
+   - The last printed number is 98.
