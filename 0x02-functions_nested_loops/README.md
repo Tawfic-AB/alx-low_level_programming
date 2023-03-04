@@ -32,3 +32,6 @@
    - Numbers are printed in order.
    - The first printed number is the number passed to the function.
    - The last printed number is 98.
+
+12. A C function that prints the n times table, starting with 0.
+   - Function does not print anything if n is greater than 15 or less than 0.
