@@ -37,3 +37,6 @@
    - Function does not print anything if n is greater than 15 or less than 0.
 
 13. A C program that computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line, using the standard library.
+
+14. A C program that prints the first 50 Fibonacci numbers, starting with 1 and 2, followed by a new line, using the standard library.
+   - The numbers are separated by comma, followed by a space.
