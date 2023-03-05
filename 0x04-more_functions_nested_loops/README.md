@@ -2,4 +2,4 @@
 
 1. A C function that checks for a digit (0 through 9), returning 1 if c is a digit, otherwise 0.
 
-2. 
+2. A C function that multiplies two integers.
