@@ -13,3 +13,8 @@
 6. A C function that draws a straight line in the terminal, using only _putchar function to print, where n is the number of times the character _ is be printed.
    - The line should end with a \n.
    - The function only print \n, if n is 0 or less.
+
+7. A C function that draws a diagonal line on the terminal, using only the _putchar function to print.
+   - Where n is the number of times the character \ is printed.
+   - The diagonal ends with a \n.
+   - If n is 0 or less, the function only print a \n.
