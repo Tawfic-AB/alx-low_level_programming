@@ -32,3 +32,5 @@
    - The Character # to print the triangle.
 
 11. A C program that finds and prints the largest prime factor of the number 612852475143, followed by a new line, using the standard library.
+
+12. A C function that prints an integer without using long, arrays, pointers, or hard-coded special values.
