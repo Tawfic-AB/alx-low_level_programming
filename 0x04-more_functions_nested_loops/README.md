@@ -7,3 +7,5 @@
 3. A C function that prints the numbers, from 0 to 9, followed by a new line.
 
 4. A C function that print the numbers, from 0 to 9, followed by a new line, excluding 2 and 4, using only _putchar twice.
+
+5. A C function that prints 10 times the numbers, from 0 to 14, followed y a new line, using only the _putchar function three times excatly.
