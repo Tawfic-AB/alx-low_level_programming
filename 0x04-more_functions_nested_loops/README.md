@@ -9,3 +9,7 @@
 4. A C function that print the numbers, from 0 to 9, followed by a new line, excluding 2 and 4, using only _putchar twice.
 
 5. A C function that prints 10 times the numbers, from 0 to 14, followed y a new line, using only the _putchar function three times excatly.
+
+6. A C function that draws a straight line in the terminal, using only _putchar function to print, where n is the number of times the character _ is be printed.
+   - The line should end with a \n.
+   - The function only print \n, if n is 0 or less.
