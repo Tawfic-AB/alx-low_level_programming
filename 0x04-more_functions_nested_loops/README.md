@@ -18,3 +18,7 @@
    - Where n is the number of times the character \ is printed.
    - The diagonal ends with a \n.
    - If n is 0 or less, the function only print a \n.
+
+8. A C function that prints a square, followed by a new line, using only the _putchar function to print, where size is the size of the square.
+   - If size is 0 or less, the function prints only a new line.
+   - The character # to print the square.
