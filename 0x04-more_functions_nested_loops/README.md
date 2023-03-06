@@ -26,3 +26,7 @@
 9. A C program that prints the numbers from 1 to 100, followed by a new line. But for multiples of three print Fizz instead of the number and for the multiples of five print Buzz. For numbers which are multiples of both three and five print FizzBuzz.
    -Each number or word is separated by a space.
    - Standard library is used.
+
+10. A C function that prints a triangle, followed by a new line, using only the _putchar function to print, where size is the size of the triangle.
+   - f size is 0 or less, the function print's only a new line  
+   - The Character # to print the triangle.
