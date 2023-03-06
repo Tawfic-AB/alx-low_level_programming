@@ -22,3 +22,7 @@
 8. A C function that prints a square, followed by a new line, using only the _putchar function to print, where size is the size of the square.
    - If size is 0 or less, the function prints only a new line.
    - The character # to print the square.
+
+9. A C program that prints the numbers from 1 to 100, followed by a new line. But for multiples of three print Fizz instead of the number and for the multiples of five print Buzz. For numbers which are multiples of both three and five print FizzBuzz.
+   -Each number or word is separated by a space.
+   - Standard library is used.
