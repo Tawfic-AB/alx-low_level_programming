@@ -23,3 +23,5 @@
 6. A C function that prints the chessboard.
 
 7. A C function that prints the sum of the two diagonals of a square matrix of integers, using the standard library.
+
+8. A C function that sets the value of a pointer to a char.
