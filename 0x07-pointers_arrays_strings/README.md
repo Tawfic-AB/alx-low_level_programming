@@ -21,3 +21,5 @@
    - Returns a pointer to the beginning of the located substring, or NULL if the substring is not found.
 
 6. A C function that prints the chessboard.
+
+7. A C function that prints the sum of the two diagonals of a square matrix of integers, using the standard library.
