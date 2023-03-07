@@ -25,3 +25,5 @@
 7. A C function that prints the sum of the two diagonals of a square matrix of integers, using the standard library.
 
 8. A C function that sets the value of a pointer to a char.
+
+9. A file that contains the exact password for the crackme2 executable. No new line, no extra space.
