@@ -1,4 +1,4 @@
-It is my first C programming.🤪
+IT'S MY FIRST C PROGRAMMING.🤪
 
 - 0x00. C - Hello, World.
 
@@ -13,3 +13,5 @@ It is my first C programming.🤪
 - 0x05. C - Pointers, arrays and strings.
 
 - 0x06. C - More pointers, arrays and strings.
+
+- 0x07. C - Even more pointers, arrays and strings.
